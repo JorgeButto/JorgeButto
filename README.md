@@ -1,92 +1,89 @@
-<!-- README profesional de perfil GitHub inspirado en AristiDevs -->
-
-<h1 align="center">Hola, soy <span style="color:#4CAF50">Jorge Butto</span> 👋</h1>
-<p align="center">Desarrollador Backend Python · Apasionado por FastAPI, CI/CD, SQL y construir soluciones reales</p>
+<h1 align="center">Jorge Butto</h1>
 
 <p align="center">
-  <img src="https://github.com/jotaaflowog/jotaaflowog/blob/78fb7962f5ff7d66f6accbaefae52dd2b84c2067/%40Jotaaaflowog.png" alt="Banner Jorge Butto"/>
+Backend Engineer · Software Architecture · System Design
+</p>
+
+<p align="center">
+I design and build backend systems focused on scalability, security and long-term maintainability.
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## About me
 
-- 🎓 Estudiante de Ingeniería Civil Informática
-- 🐍 Desarrollador Backend con Python
-- ⚙️ APIs REST con FastAPI, SQLAlchemy y autenticación JWT/OAuth2
-- 🧪 Pruebas automatizadas con Pytest y flujos CI/CD con GitHub Actions
-- 🧠 Autodidacta, enfocado en buenas prácticas, código modular y despliegue profesional
+- Backend Engineer with a strong interest in **software architecture and system design**
+- Focused on building **reliable, secure and maintainable backend systems**
+- Experience designing **REST APIs**, authentication flows and database-driven applications
+- Strong preference for **clean code, explicit architecture and long-term solutions**
+- Engineering student with a practical, product-oriented mindset
 
 ---
 
-## 🚀 Proyectos destacados
+## Featured Projects
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/jotaaflowog/NutriLogic-WebAPI">
-        <img src="https://github.com/jotaaflowog/jotaaflowog/blob/1b220740dd2e2cb78608951bbc3324bd7ed48d9b/NutrilogicWeb.png" alt="NutriLogic Web API"/>
+    <td width="50%" align="center">
+      <a href="https://github.com/JorgeButto/NutriLogic-WebAPI">
+        <img src="https://github.com/JorgeButto/JorgeButto/blob/main/NutrilogicWeb.png" alt="NutriLogic Web API"/>
       </a>
-      <br/>
+      <br/><br/>
       <strong>NutriLogic Web API</strong><br/>
-      API REST profesional para nutricionistas con JWT, SQL, despliegue en Render y CI/CD, la versión WEB de NutriLogic
+      Production-oriented REST API designed for nutrition professionals.<br/><br/>
+      Focused on authentication, role-based access, database modeling, migrations and CI/CD.
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/jotaaflowog/NutriLogic-Desktop">
-        <img src="https://github.com/jotaaflowog/jotaaflowog/blob/1b220740dd2e2cb78608951bbc3324bd7ed48d9b/NutrilogicApp.png" alt="NutriLogic App Escritorio"/>
+    <td width="50%" align="center">
+      <a href="https://github.com/JorgeButto/NutriLogic-Desktop">
+        <img src="https://github.com/JorgeButto/JorgeButto/blob/main/NutrilogicApp.png" alt="NutriLogic Desktop App"/>
       </a>
-      <br/>
-      <strong>NutriLogic App Escritorio</strong><br/>
-      Calculadora nutricional personalizada con GUI en Python
+      <br/><br/>
+      <strong>NutriLogic Desktop</strong><br/>
+      Desktop application focused on nutritional calculations and data consistency.<br/><br/>
+      Designed as an early-stage product with clear separation between logic and interface.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Stack actual
+## Technical Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/><br/>FastAPI
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL
-    </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br/>SQLite
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git
-    </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub Actions
-    </td>
-    <td align="center" width="150">
-      <img src="https://datoux.gallerycdn.vsassets.io/extensions/datoux/vscode-pytest-intellisence/0.0.1/1623003313690/Microsoft.VisualStudio.Services.Icons.Default" width="40"/><br/>Pytest
-    </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40"/><br/>SQLAlchemy
-    </td>
-  </tr>
-</table>
+### Backend & APIs
+- FastAPI
+- SQLAlchemy
+- Pydantic
+- JWT / OAuth2
+
+### Databases
+- PostgreSQL
+- MySQL
+- SQLite
+
+### Data & Migrations
+- Alembic
+
+### Testing & Quality
+- Pytest
+- Clean Code principles
+
+### DevOps & Automation
+- CI/CD with GitHub Actions
+- Git-based workflows
 
 ---
 
-## 📊 GitHub Analytics
+## Contact
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotaaflowog&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/jorge-butto-cumsille">
+    <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Butto-blue?style=flat&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  💬 Gracias por visitar mi perfil. ¡Conectemos o colaboremos en algo increíble!
+Open to collaboration, technical discussions and building meaningful software.
 </p>
+
